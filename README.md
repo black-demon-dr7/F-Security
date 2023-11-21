@@ -12,5 +12,11 @@ Instagram and Facebook Account Hacking Tool
 
 ### [+] Installation
  -
+
+ -
+```
+pip install git
+```
+ - ` pip install user-agent `
  - ``` pip install bs4 ```
  - ```git clone https://github.com/KasRoudra/PyPhisher```
