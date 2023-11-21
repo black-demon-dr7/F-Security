@@ -15,7 +15,7 @@ Instagram and Facebook Account Hacking Tool
 <h1 align="center">Example</h1>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/KasRoudra/PyPhisher/main/files/pyphisher.gif" alt="PyPhisher" width="200" height="400">
+  <img src="vid.mp4" alt="PyPhisher" width="200" height="400">
 </p>
 
 
