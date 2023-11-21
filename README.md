@@ -1,4 +1,5 @@
-# F-Security
+<h1 align="center">♆ F-Security ♆</h1>
+<br>
 
 ### [√] Description :
 
@@ -13,20 +14,35 @@ Instagram and Facebook Account Hacking Tool
 
 <h1 align="center">Example</h1>
 
-![PyPhisher](https://raw.githubusercontent.com/KasRoudra/PyPhisher/main/files/pyphisher.gif)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/KasRoudra/PyPhisher/main/files/pyphisher.gif" alt="PyPhisher" width="200" height="400">
+</p>
 
 
 
 ### [+] Installation
- -
 
- -
+
+
+```
+pkg update -y
+```
+```
+pkg upgrade -y
+```
 ```
 pip install git
 ```
- - ` pip install user-agent `
- - ``` pip install bs4 ```
- - ```git clone https://github.com/KasRoudra/PyPhisher```
+```
+pip install user-agent
+```
+``` 
+pip install bs4
+```
+
+```
+git clone https://github.com/black-demon-dr7/F-Security.git
+```
 
 
 
