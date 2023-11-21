@@ -2,7 +2,7 @@
 <br>
 
 <div align="center">
-  <img src="https://i.imgur.com/VgTrTGU.png" alt="F-Security Image" width="auto" height="auto">
+  <img src="https://i.imgur.com/VgTrTGU.png" alt="F-Security Image" style="max-width: 100%; max-height: 100%;">
 </div>
 
 
