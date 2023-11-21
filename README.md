@@ -68,13 +68,13 @@ python F-Security.py
 
 ## [~] Contact Me on :
 
-- w[![Github](https://img.shields.io/badge/Github-Demon-purple?style=for-the-badge&logo=github)](https://github.com/KasRoudra)
+- w[![Github](https://img.shields.io/badge/Github-Demon-purple?style=for-the-badge&logo=github)]()
 
-- [![Instgram](https://img.shields.io/badge/Instagram-Demon-green?style=for-the-badge&logo=instagram)](mailto:kasroudrakrd@gmail.com)
+- [![Instgram](https://img.shields.io/badge/Instagram-Demon-green?style=for-the-badge&logo=instagram)](https://instagram.com/elqnas_daymon?igshid=MzNlNGNkZWQ4Mg==)
 
-- [![Youtube](https://img.shields.io/badge/Youtube-Demon-blue?style=for-the-badge&logo=youtube)](https://facebook.com/KasRoudra)
+- [![Youtube](https://img.shields.io/badge/Youtube-Demon-blue?style=for-the-badge&logo=youtube)](https://youtube.com/@ELQNAS_DAYMON?si=_9glDyUgFdJ1JDsW)
 
-- [![Telegram](https://img.shields.io/badge/Telegram-Demon-orange?style=for-the-badge&logo=telegram)](https://m.me/KasRoudra)
+- [![Telegram](https://img.shields.io/badge/Telegram-Demon-orange?style=for-the-badge&logo=telegram)](https://t.me/BLACK_DEMON_VX)
 
-- [![Connect](https://img.shields.io/badge/Telegram-KasRoudra-indigo?style=for-the-badge&logo=telegram)](https://t.me/KasRoudra)
+- [![Connect](https://img.shields.io/badge/Telegram-KasRoudra-indigo?style=for-the-badge&logo=telegram)](https://t.me/blackd4)
 
