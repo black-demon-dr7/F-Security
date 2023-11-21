@@ -22,8 +22,6 @@ Instagram and Facebook Account Hacking Tool
 
 ### [+] Installation
 
-
-
 ```
 pkg update -y
 ```
@@ -31,7 +29,7 @@ pkg update -y
 pkg upgrade -y
 ```
 ```
-pip install git
+pkg install git
 ```
 ```
 pip install user-agent
@@ -39,14 +37,21 @@ pip install user-agent
 ``` 
 pip install bs4
 ```
-
+```
+pip install requests
+```
+```
+pip install random
+```
 ```
 git clone https://github.com/black-demon-dr7/F-Security.git
 ```
-
-
-
-
+```
+cd F-Security
+```
+```
+python F-Security.py
+```
 
 
 ## [~] Contact Me on :
