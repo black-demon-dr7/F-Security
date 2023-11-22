@@ -56,6 +56,9 @@ pip install requests
 pip install random
 ```
 ```
+pip install pyfiglet
+```
+```
 git clone https://github.com/black-demon-dr7/F-Security.git
 ```
 ```
