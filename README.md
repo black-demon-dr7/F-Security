@@ -73,8 +73,6 @@ python F-Security.py
 
 - w[![Github](https://img.shields.io/badge/Github-Demon-purple?style=for-the-badge&logo=github)](https://github.com/black-demon-dr7)
 
-- [![Instgram](https://img.shields.io/badge/Instagram-Demon-green?style=for-the-badge&logo=instagram)](https://instagram.com/elqnas_daymon?igshid=MzNlNGNkZWQ4Mg==)
-
 - [![Youtube](https://img.shields.io/badge/Youtube-Demon-blue?style=for-the-badge&logo=youtube)](https://youtube.com/@ELQNAS_DAYMON?si=_9glDyUgFdJ1JDsW)
 
 - [![Telegram](https://img.shields.io/badge/Telegram-Demon-orange?style=for-the-badge&logo=telegram)](https://t.me/BLACK_DEMON_VX)
